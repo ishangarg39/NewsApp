@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Karl Ritter",
+            "title": "US: Russia has committed crimes against humanity in Ukraine - The Associated Press - en Español",
+            "description": "MUNICH (AP) — The United States has determined that Russia has committed crimes against humanity in Ukraine, Vice President Kamala Harris said Saturday, insisting that “justice must be served” to the perpetratrors.",
+            "url": "https://apnews.com/article/us-russia-ukraine-crimes-against-humanity-harris-cee87f06cbf3fcdf37e0bb398360c8ee",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/e89cf1357c1d4a75bde4d948cc6fc5ba/3000.webp",
+            "publishedAt": "2023-02-18T13:31:10Z",
+            "content": "MUNICH (AP) The United States has determined that Russia has committed crimes against humanity in Ukraine, Vice President Kamala Harris said Saturday, insisting that justice must be served to the per… [+4433 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Jesse Newman, Jaewon Kang",
+            "title": "Food Companies to Ex-Employees: Come Back, Please - The Wall Street Journal",
+            "description": "Some food retailers, manufacturers seek to fill staffing gaps with former workers, who typically require less training",
+            "url": "https://www.wsj.com/articles/food-companies-to-ex-employees-come-back-please-6498e88d",
+            "urlToImage": "https://images.wsj.net/im-726602/social",
+            "publishedAt": "2023-02-18T13:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Dan Sabbagh",
+            "title": "Sean Penn says US has to accept ‘level of shame’ for not arming Ukraine faster - The Guardian",
+            "description": "Actor and filmmaker speaks out at premiere of his documentary about president Voldoymyr Zelenskiy",
+            "url": "https://www.theguardian.com/film/2023/feb/18/sean-penn-says-us-has-to-accept-level-of-shame-for-not-arming-ukraine-faster",
+            "urlToImage": "https://i.guim.co.uk/img/media/6b57944ed2f46c467b84851db14909fd3fec5183/0_203_7347_4409/master/7347.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=79449a8029ec5d692b16f94215a93c25",
+            "publishedAt": "2023-02-18T12:48:00Z",
+            "content": "Sean Penn said the US has to accept a level of shame for not helping Ukraine with weapons supplies quicker at the premiere of his documentary about president Voldoymyr Zelenskiy and the war in Berlin… [+4376 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Japan Times"
+            },
+            "author": "Jesse Johnson",
+            "title": "North Korea fires 'ICBM-class' missile into Japan's EEZ off Hokkaido - The Japan Times",
+            "description": "The launch comes a day after Pyongyang vowed an \"unprecedentedly\" strong response to joint military drills between the U.S. and South Korea set for next week.",
+            "url": "https://www.japantimes.co.jp/news/2023/02/18/asia-pacific/north-korea-missile-launch-south-us-korea-drills/",
+            "urlToImage": "https://cdn-japantimes.com/wp-content/uploads/2023/02/np_file_211348-870x489.jpeg",
+            "publishedAt": "2023-02-18T12:30:45Z",
+            "content": "North Korea fired a suspected intercontinental ballistic missile (ICBM) on Saturday, Japan’s Defense Ministry said, with the weapon splashing down some 200 kilometers off Hokkaido’s Oshima Island, in… [+902 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "",
+            "title": "'He could easily destroy us': See Tucker Carlson's private text about Trump - CNN",
+            "description": "The most prominent stars and highest-ranking executives at Fox News privately ridiculed claims of election fraud in the 2020 election, despite the right-wing channel allowing lies about the presidential contest to be promoted on its air, damning messages cont…",
+            "url": "https://www.cnn.com/videos/business/2023/02/18/fox-news-hosts-private-text-on-air-trump-election-lies-serfaty-dnt-ebof-vpx.cnn",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230217201752-fox-news-text-2.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-02-18T12:03:14Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Scharon Harding",
+            "title": "Razer BlackWidow V4 Pro review: More than enough buttons, too much software - Ars Technica",
+            "description": "Supreme programmability is too reliant on the Synapse app.",
+            "url": "https://arstechnica.com/gadgets/2023/02/razer-blackwidow-v4-pro-review-more-than-enough-buttons-too-much-software/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/listing-3-760x380.jpg",
+            "publishedAt": "2023-02-18T12:00:44Z",
+            "content": "Enlarge/ Razer's BlackWidow V4 Pro wired mechanical keyboard.\r\n9 with \r\n<table><tr><th>Specs at a glance: Razer BlackWidow V4 Pro</th></tr><tr><td>Switches</td><td>Razer Green (clicky) or Yellow (lin… [+3614 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Tobias Mann",
+            "title": "White Castle collecting burger slingers' fingerprints looks like a $17B mistake - The Register",
+            "description": "Wow Harold, you could buy, like, 23 billion sliders with that",
+            "url": "https://www.theregister.com/2023/02/18/white_castle_fingerprints_fine/",
+            "urlToImage": "https://regmedia.co.uk/2023/02/18/white_castle_shutterstock.jpg",
+            "publishedAt": "2023-02-18T12:00:00Z",
+            "content": "American burger-slinging giant White Castle is almost certainly regretting its decisions about employee monitoring after the Illinois Supreme Court Friday issued an opinion opening the fast \"food\" co… [+2762 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Bryan Manning",
+            "title": "Ron Rivera makes slam-dunk hire in Eric Bieniemy as Commanders offensive coordinator - USA Today",
+            "description": "Ron Rivera made the best hire possible for an offensive coordinator.",
+            "url": "https://commanderswire.usatoday.com/2023/02/18/washington-head-coach-ron-rivera-makes-slam-dunk-hire-in-eric-bieniemy-as-commanders-offensive-coordinator-chiefs-patrick-mahomes-sam-howell/",
+            "urlToImage": "https://commanderswire.usatoday.com/wp-content/uploads/sites/42/2023/02/USATSI_13991160.jpg?w=1024&h=576&crop=1",
+            "publishedAt": "2023-02-18T11:55:00Z",
+            "content": "To say Washington Commanders head coach Ron Rivera had his back up against the wall in his search for a new offensive coordinator would be an understatement. With possible new ownership coming soon a… [+2412 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "DW (English)"
+            },
+            "author": "Deutsche Welle",
+            "title": "MSC 2023: Top diplomats discuss future of Ukraine - DW (English)",
+            "description": "The second day of the Munich Security Conference is off and running. Various world leaders are in Bavaria for the weekend event, with NATO's Jens Stoltenberg and the EU's Ursula von der Leyen among the earlier speakers.",
+            "url": "https://www.dw.com/en/msc-2023-top-diplomats-discuss-future-of-ukraine/a-64749223",
+            "urlToImage": "https://static.dw.com/image/64751218_6.jpg",
+            "publishedAt": "2023-02-18T11:52:23Z",
+            "content": "Welcome to DW's coverage of day 2 of the Munich Security Conference, which started in earnest at 10 a.m. local time (0900 UTC/GMT) on Saturday. You can also watch along live on DW's Youtube channel. … [+11482 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Oliver O'Connell",
+            "title": "Alex Murdaugh trial – live: Timeline of murders delivers new revelations about pills, money, and phone records - The Independent",
+            "description": "alex murdaugh trial crime scene",
+            "url": "https://www.independent.co.uk/news/world/americas/crime/alex-murdaugh-trial-green-gel-pill-latest-b2284957.html",
+            "urlToImage": "https://static.independent.co.uk/2023/02/15/21/SEI144344092.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-02-18T11:40:00Z",
+            "content": "Sign up to our free US news bulletin sent straight to your inbox each weekday morning\r\nSign up to our free morning US email news bulletin\r\nThere was dramatic testimony at the Colleton County Courthou… [+6901 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Ukrainian troops holding Bakhmut line demand weapons as world powers meet - Reuters.com",
+            "description": "Ukrainian soldiers fighting to hold off a Russian push on the small eastern city of Bakhmut pleaded for more weapons from the outside world as senior Western leaders <a href=\"/world/europe/war-ukraine-dominate-global-security-gathering-munich-2023-02-16/\">met…",
+            "url": "https://www.reuters.com/world/europe/ukraines-priority-hold-line-global-security-leaders-gather-2023-02-17/",
+            "urlToImage": "https://www.reuters.com/resizer/ACAnQIhsHMBk5398uiSYtpLlfvs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HHWPGHFLGVLNBHXIYIXJGZ6P7Y.jpg",
+            "publishedAt": "2023-02-18T11:39:00Z",
+            "content": "NEAR BAKHMUT, Ukraine/MUNICH, Feb 17 (Reuters) - Ukrainian soldiers fighting to hold off a Russian push on the small eastern city of Bakhmut pleaded for more weapons from the outside world as senior … [+5867 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Mary Ann Koruth, USA TODAY",
+            "title": "Afghan girls defy Taliban, meet NJ professor in secret virtual classes - USA TODAY",
+            "description": "A group of Afghan girls and women join a virtual class based in New Jersey to learn English, defying Taliban rules forbidding Afghan girls' education.",
+            "url": "https://www.usatoday.com/story/news/nation/2023/02/18/afghan-girls-meet-secret-for-virtual-learning-hun-school-princeton/11283065002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2023/02/15/PNJM/2e81dd51-1631-4abe-b57d-1d5190658f9a-021423_Princeton_0247.JPG?auto=webp&crop=3982,2240,x0,y0&format=pjpg&width=1200",
+            "publishedAt": "2023-02-18T10:04:20Z",
+            "content": "Still heavy and scratchy from sleep, the \"good mornings\" come in hushed but eager voices.\r\nIt's 7 a.m. in Afghanistan, but it's not too early for the Afghan teen girls and women who meet secretly eac… [+11328 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Weekly Astrology Forecast, February 19-25: Turning Your Desires Into Reality - Yahoo! Voices",
+            "description": null,
+            "url": "https://www.yahoo.com/news/weekly-astrology-forecast-february-19-100039387.html",
+            "urlToImage": null,
+            "publishedAt": "2023-02-18T10:00:39Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Zachary McAuliffe",
+            "title": "iOS 16.4's New Emoji List Includes One We've All Been Wanting for Years - CNET",
+            "description": "Yes, the pink heart emoji is finally coming.",
+            "url": "https://www.cnet.com/tech/services-and-software/ios-16-4-new-emoji-list-includes-one-weve-all-been-wanting-for-years/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/87d41ccc7bf4adcafa4863c626e1449caf437708/hub/2023/02/16/71ccf413-3d0a-4a5e-afe2-85d0d50545b6/ios-16-4-emoji.jpg?auto=webp&fit=crop&height=630&width=1200",
+            "publishedAt": "2023-02-18T10:00:02Z",
+            "content": "A total of 31 new emoji designs arrived on iOS with the release of the first iOS 16.4 developer beta on Thursday, according to Emojipedia.\r\nThe new emoji include a new smiley, a shaking head, new ani… [+1937 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Elizabeth Pritchett",
+            "title": "Meat plant cleaning service fined $1.5M for employing over 100 children across US locations - Fox Business",
+            "description": "Packers Sanitation Services, Inc., was hit with over $1.5 million in fines by the Department of Labor after more than 100 children were found to be working in plants across the country.",
+            "url": "https://www.foxbusiness.com/money/meat-plant-cleaning-service-fined-1-5m-employing-over-100-children-across-us-locations",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/02/0/0/GettyImages-1210676580.jpg?ve=1&tl=1",
+            "publishedAt": "2023-02-18T09:12:57Z",
+            "content": "The U.S. Department of Labor announced Friday that Packers Sanitation Services, Inc. (PSSI), paid over $1.5 million in civil penalties after the company was discovered to have more than 100 children … [+5469 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Grace Kay",
+            "title": "Tesla cofounder says Musk used to scream if left out of press - Business Insider",
+            "description": "Elon Musk \"got mad if anything was ever written about Tesla and it didn't feature his name prominently,\" Martin Eberhard told Insider.",
+            "url": "https://www.businessinsider.com/tesla-cofounder-says-elon-musk-screamed-if-left-out-press-2023-2",
+            "urlToImage": "https://i.insider.com/63d9482d0a08ae0018a62eeb?width=1200&format=jpeg",
+            "publishedAt": "2023-02-18T08:35:00Z",
+            "content": "Martin Eberhard, one of Tesla's cofounders, said his relationship with Elon Musk has soured to the point that he now avoids all news about the billionaire.\r\nMusk and Eberhard worked together at Tesla… [+3966 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Herb Scribner",
+            "title": "Los Angeles police investigating shootings of 2 Jewish men leaving synagogues as hate crimes - Axios",
+            "description": "A suspect was arrested by LAPD on Thursday in connection with both shootings.",
+            "url": "https://www.axios.com/2023/02/17/los-angeles-police-shooting-pico-robertson",
+            "urlToImage": "https://images.axios.com/vovETVJI4Ncoi1208yB9z8k6atE=/0x0:4368x2457/1366x768/2023/02/17/1676649801632.jpg",
+            "publishedAt": "2023-02-18T06:04:38Z",
+            "content": "The Los Angeles Police Department arrested a suspect in connection to two separate, nonfatal shootings of two Jewish people this week and is investigating the incidents as hate crimes.\r\nDriving the n… [+2450 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": "Cynthia Cox, Jen Kates",
+            "title": "The Covid Public Health Emergency Is Ending. What It Means for Vaccine Prices. - Barron's",
+            "description": "There will be significant changes to vaccine costs and access this year, write Cynthia Cox and Jen Kates.",
+            "url": "https://www.barrons.com/articles/commercialization-of-covid-vaccines-pandemic-emergency-moderna-pfizer-5b8f8046",
+            "urlToImage": "https://images.barrons.com/im-727950/social",
+            "publishedAt": "2023-02-18T06:00:00Z",
+            "content": "About the authors: Cynthia Cox is vice president at the Kaiser Family Foundation and director for the program on the Affordable Care Act. She also directs the Peterson-KFF Health System Tracker, a pa… [+6169 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian staff reporter",
+            "title": "Tiger Woods makes the cut at Genesis Invitational with Max Homa on top - The Guardian",
+            "description": "Woods finishes second day with three bogeys for a 74 and Homa leading after some big par saves for 3-under 68",
+            "url": "https://www.theguardian.com/sport/2023/feb/18/tiger-woods-makes-the-cut-at-genesis-invitational-with-max-homa-on-top",
+            "urlToImage": "https://i.guim.co.uk/img/media/b2d671c1843d77448563566a908d51ead1ac1306/0_0_3043_1827/master/3043.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2c5e039d695ad64c6a9e3dab11a89c6d",
+            "publishedAt": "2023-02-18T05:28:00Z",
+            "content": "Despite a sloppy finish and more attention over a juvenile prank, Tiger Woods will be part of the weekend at the Genesis Invitational, finishing with three bogeys over his last four holes for a 74.\r\n… [+3252 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Natasha Bertrand, Oren Liebermann",
+            "title": "US military calls off recovery operation for Chinese spy balloon and search for objects downed over Alaska, Lake Huron - CNN",
+            "description": "The US military has concluded its recovery operations for the suspected Chinese spy balloon that was shot down off the coast of South Carolina earlier this month, as well as the search for flying objects it later downed off the coast of Alaska and over Lake H…",
+            "url": "https://www.cnn.com/2023/02/17/politics/china-spy-balloon-recovery/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230209132835-03-suspected-chinese-spy-balloon-handout.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-02-18T04:29:00Z",
+            "content": "The US military has concluded its recovery operations for the suspected Chinese spy balloon that was shot down off the coast of South Carolina earlier this month, as well as the search for flying obj… [+4434 chars]"
+        }
+    ]
+}
